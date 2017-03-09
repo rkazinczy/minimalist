@@ -1,0 +1,43 @@
+/* -----------
+Bootstrap 4
+-----------*/
+* {
+  text-align: center;
+  align: justify;
+}
+
+.button {
+  color: #fff;
+  background-color: #08a9e0;
+  font-style: Arial ,sans-serif;
+  font-size: 20px;
+  padding: 7px;
+  border: 2px transparent #5d6063;
+  margin: 40px auto;
+  top: 50%;
+  left: 600px;
+
+border-radius: 5px;
+  box-sizing: border-box;
+  width: 150px;
+  position: absolute;
+
+}
+
+.wrapper {
+  text-align: center;
+  padding-top: -300px;
+}
+
+header {
+  padding-top: 200px;
+}
+
+.top p {
+    color: #A4A4A4;
+    font-size: 20px;
+}
+
+.click-p {
+  padding-top: 40px;
+}
